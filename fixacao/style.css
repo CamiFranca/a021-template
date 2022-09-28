@@ -1,0 +1,22 @@
+ footer{
+
+    height:2.5rem ;
+    padding: 0.625rem;
+    color: white;
+    background-color: black;
+}
+header{
+    background-color: orange;
+    border-bottom: black;
+    height:2.5rem ;
+    padding: 0.625rem;
+    color: white;
+}
+
+main{
+    margin: 0.938rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+}
